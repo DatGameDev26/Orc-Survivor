@@ -8,7 +8,7 @@ Bạn sẽ chiến đấu chống lại các yêu tinh trong một đấu trư�
 
 ## Cơ chế trò chơi
 
-- Di chuyển, Chém, Tấn công đặc biệt và Chặn đòn
+- Di chuyển, Chém, Chiêu thức và Chặn đòn
 - Tiêu diệt tất cả 50 yêu tinh để giành chiến thắng
 
 [Demo](https://drive.google.com/file/d/1chZqzuIfEHWHioCuozqu9xxOgxm7mDHu/view?usp=drive_link)
