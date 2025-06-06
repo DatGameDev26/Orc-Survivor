@@ -1,5 +1,3 @@
-# Orc-Survivor
-
 ![Ảnh minh họa](https://drive.google.com/uc?export=view&id=1hSfe8sPp6_aFt9baztRqeAEuiB-CQeaB)
 
 ## Mô tả
