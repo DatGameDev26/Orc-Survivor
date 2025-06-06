@@ -6,6 +6,9 @@
 
 Bạn sẽ chiến đấu chống lại các yêu tinh trong một đấu trường nhỏ, bao quanh bởi Bức Tường Đỏ chết chóc.
 
+Đây là dòng đầu tiên  
+và đây là dòng thứ hai.
+
 ## Cơ chế trò chơi
 
 - Di chuyển, Chém, Tấn công đặc biệt và Chặn đòn
