@@ -12,3 +12,4 @@ Bạn sẽ chiến đấu chống lại các yêu tinh trong một đấu trư�
 - Tiêu diệt tất cả 50 yêu tinh để giành chiến thắng
 
 [Demo](https://drive.google.com/file/d/1chZqzuIfEHWHioCuozqu9xxOgxm7mDHu/view?usp=drive_link)
+[Link chơi](https://datdev.itch.io/orc-survivor)
